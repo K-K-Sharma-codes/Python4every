@@ -3,4 +3,4 @@ if(x>2):
     print("big")
 if(x>10):
     print("small")
-print(null)
+print("null")
